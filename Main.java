@@ -8,7 +8,7 @@ public class Main {
         GerenciadorProduto gerenciadorProduto = new Gerenciador
 
         Produto p1 = new Produto(1, "Teclado", 50.0, 10);
-        Produto p2 = new Produto(2, "Rato", 30.0, 15);
+        Produto p2 = new Produto(2, "Mouse", 30.0, 15);
 
         gerenciadorProduto.adicionarProduto(p1);
         gerenciadorProduto.adicionarProduto(p2);
